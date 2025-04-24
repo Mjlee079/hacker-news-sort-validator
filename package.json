@@ -1,0 +1,19 @@
+{
+  "name": "hacker-news-sort-validator",
+  "version": "1.0.0",
+  "description": "A script to validate the sorting of articles on Hacker News newest page",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "hacker-news",
+    "playwright",
+    "automation"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.39.0"
+  }
+}
